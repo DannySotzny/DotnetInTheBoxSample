@@ -1,0 +1,22 @@
+﻿{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "emitEntryPoint": true
+  },
+  "dependencies": {
+    "Nancy": "2.0.0-barneyrubble",
+    "Microsoft.AspNetCore.Owin": "1.1.1",
+    "Microsoft.AspNetCore.Server.Kestrel": "1.1.1",
+    "Microsoft.NETCore.App": "1.1.1"
+  },
+  "commands": {
+    "web": "Microsoft.AspNet.Server.Kestrel"
+  },
+  "frameworks": {
+    "netcoreapp1.0": {
+      "dependencies": {
+
+      }
+    }
+  }
+}
