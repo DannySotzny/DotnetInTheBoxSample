@@ -4,7 +4,7 @@
     {
         public HomeModule()
         {
-            Get("/", args => "Hallo Test");
+            Get("/", args => "Hallo DevOps");
         }
     }
 }
