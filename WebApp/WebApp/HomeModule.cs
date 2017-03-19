@@ -4,7 +4,7 @@
     {
         public HomeModule()
         {
-            Get("/", args => "Hallo DevOps");
+            Get("/", args => "Hallo Spartakiade 2017 - Sport frei");
         }
     }
 }
