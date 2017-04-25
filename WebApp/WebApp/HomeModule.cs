@@ -4,7 +4,7 @@
     {
         public HomeModule()
         {
-            Get("/", args => "Hallo Spartakiade 2017 - Sport frei");
+            Get("/", args => "Hallo DNUG Leipzig");
         }
     }
 }
